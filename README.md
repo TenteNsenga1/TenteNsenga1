@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Tente Parbo</h1>
+
+<h2>👨‍💻 cybersecurity project: </h2>
+- [Active Diretory Home Lab]
+
+<h2> Certification </h2>
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="tente-parbo-nsenga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/tente-parbo-nsenga
 
 <!--
-**TenteNsenga1/TenteNsenga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tentensenga1/Tentensenga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
