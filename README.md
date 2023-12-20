@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tente Parbo</h1>
 
 <h2>👨‍💻 cybersecurity project: </h2>
-- [Active Diretory Home Lab]
+
 
 <h2> Certification </h2>
 <h2> 🤳 Connect with me:</h2>
