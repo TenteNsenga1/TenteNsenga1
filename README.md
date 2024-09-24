@@ -2,7 +2,7 @@
 
 <h2>🕵 cybersecurity projects: </h2>
  <ul>
-    <li><b><strong>active directory </li>
+    <li><b><strong>Home Labs </li>
         <ul>
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
            </ul>
