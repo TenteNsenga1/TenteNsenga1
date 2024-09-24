@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tente Parbo!</h1>
 
-<h2>👨‍💻 cybersecurity project: </h2>
+<h2>🕵 cybersecurity project: </h2>
 
 <h2>👨‍💻 programmer: </h2>
 
