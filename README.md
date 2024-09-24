@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tente Parbo!</h1>
+<h1>Hi, I'm Tente!</h1>
 
 <h2>🕵 cybersecurity projects: </h2>
  <ul>
