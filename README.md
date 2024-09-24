@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 programming projects: </h2>
 <ul>
-    <li>&#8226; Frontend static webpage
+    <li><b></b>Frontend static webpage</b></li>
         <ul>
             <li><a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a></li>
            </ul>
