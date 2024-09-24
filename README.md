@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 programming projects: </h2>
   <b>&#8226; Frontend static webpage</b> <br>
-&#8226;<a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a>
+&nbsp;&#8226;<a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a>
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>
 
