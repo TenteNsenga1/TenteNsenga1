@@ -3,8 +3,13 @@
 <h2>🕵 cybersecurity projects: </h2>
 
 <h2>👨‍💻 programming projects: </h2>
-  <b>&#8226; Frontend static webpage</b> <br>
-&emsp;&emsp;&#8226;<a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a>
+<ul>
+    <li>Frontend static webpage
+        <ul>
+            <li><a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a></li>
+           </ul>
+    </li>
+</ul>
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>
 
