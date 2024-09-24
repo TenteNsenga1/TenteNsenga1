@@ -2,8 +2,8 @@
 
 <h2>🕵 cybersecurity projects: </h2>
 
-<h2>👨‍💻 programmer projects: </h2>
-
+<h2>👨‍💻 programming projects: </h2>
+<a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a>
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>
 
