@@ -6,6 +6,9 @@
         <ul>
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
            </ul>
+     <ul>
+            <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> DHCP lab packet tracer </a></li>
+           </ul>
     </li>
 </ul>
 <h2>👨‍💻 programming projects: </h2>
