@@ -7,7 +7,7 @@
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
            </ul>
      <ul>
-            <li><a href="[https://github.com/TenteNsenga1/DHCP-labs)"> DHCP lab packet tracer </a></li>
+            <li><a href="https://github.com/TenteNsenga1/DHCP-labs"> DHCP lab packet tracer </a></li>
            </ul>
     </li>
 </ul>
