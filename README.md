@@ -5,10 +5,8 @@
     <li><b><strong>Home Labs </li>
         <ul>
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
-           </ul>
-     <ul>
-            <li><a href="https://github.com/TenteNsenga1/DHCP-labs-"> DHCP lab packet tracer </a></li>
-           </ul>
+         </ul>
+        
     </li>
 </ul>
 <h2>👨‍💻 programming projects: </h2>
