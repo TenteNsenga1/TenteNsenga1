@@ -4,7 +4,7 @@
  <ul>
     <li><b><strong>Home Labs </li>
         <ul>
-            <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
+            <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> Active Directory </a></li>
          </ul>
           <ul>
             <li><a href=""> SOC Lab </a></li>
