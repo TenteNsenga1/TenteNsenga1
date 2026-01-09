@@ -6,7 +6,9 @@
         <ul>
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
          </ul>
-        
+          <ul>
+            <li><a href=""> SOC Lab </a></li>
+         </ul>
     
 </ul>
 <h2>👨‍💻 programming projects: </h2>
