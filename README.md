@@ -7,7 +7,7 @@
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> active directory </a></li>
          </ul>
         
-    </li>
+    
 </ul>
 <h2>👨‍💻 programming projects: </h2>
 <ul>
