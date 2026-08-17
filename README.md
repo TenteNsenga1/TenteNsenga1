@@ -18,6 +18,11 @@
             <li><a href="https://github.com/TenteNsenga1/cafe-menu"> coffee menu </a></li>
            </ul>
     </li>
+    <li><b><strong>Automation</li>
+        <ul>
+            <li><a href="./job-application-agent"> job application agent </a> — finds remote, AI-heavy job listings, scores them against a profile, drafts tailored cover letters, and tracks the pipeline</li>
+           </ul>
+    </li>
 </ul>
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>

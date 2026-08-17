@@ -1,0 +1,151 @@
+# Copy this file to profile.yaml (gitignored — it's meant to hold your real
+# details, and this repo is public) and fill it in with your own info.
+#
+#   cp config/profile.yaml.example config/profile.yaml
+
+candidate:
+  name: "Your Name"
+  email: "you@example.com"
+  phone: ""
+  linkedin: ""
+  github: ""
+  location: "Remote / Anywhere"
+  summary: >
+    A one- or two-sentence pitch about you: your background, what you're
+    good at, and what kind of AI-heavy remote work you're aiming to learn
+    and grow into. Used to fill in generated cover letters.
+  top_skills:
+    - "Add your real skills here"
+    - "e.g. Python, Excel, written communication"
+    - "e.g. fast learner with AI tools (ChatGPT, Claude, Copilot)"
+
+# Applications will not be auto-submitted to any site. The tool prepares
+# tailored materials and a ready-to-open link; you take the final click.
+# This keeps you clear of every major job board's anti-bot Terms of Service
+# (LinkedIn and Indeed in particular explicitly prohibit automated
+# applications, and violating that risks your account being banned).
+auto_submit: false
+
+# The 6 target job categories you want the tool to prioritize. Each is
+# matched against job titles/descriptions/tags by keyword. Edit freely —
+# add, remove, or reweight to match what you actually want to learn.
+# `weight` scales how much a category match contributes to fit_score.
+target_categories:
+  - name: "AI Data & Model Training"
+    weight: 1.0
+    keywords:
+      - "data annotation"
+      - "data annotator"
+      - "data labeling"
+      - "labeling"
+      - "rlhf"
+      - "model training"
+      - "ai trainer"
+      - "red team"
+      - "red-teaming"
+      - "search evaluator"
+      - "search quality rater"
+
+  - name: "AI-Assisted QA & Software Testing"
+    weight: 1.0
+    keywords:
+      - "qa engineer"
+      - "quality assurance"
+      - "software tester"
+      - "test engineer"
+      - "manual testing"
+      - "automated testing"
+      - "bug triage"
+
+  - name: "AI-Assisted Content & Technical Writing"
+    weight: 1.0
+    keywords:
+      - "technical writer"
+      - "content writer"
+      - "copywriter"
+      - "documentation"
+      - "editor"
+      - "ai content"
+      - "prompt writer"
+
+  - name: "AI-Assisted Research & Data Analysis"
+    weight: 1.0
+    keywords:
+      - "data analyst"
+      - "research analyst"
+      - "market research"
+      - "data entry"
+      - "data processing"
+      - "reporting analyst"
+
+  - name: "Prompt Engineering & AI Workflow Automation"
+    weight: 1.2
+    keywords:
+      - "prompt engineer"
+      - "prompt engineering"
+      - "ai workflow"
+      - "automation engineer"
+      - "llm"
+      - "generative ai"
+      - "ai integration"
+      - "no-code automation"
+      - "zapier"
+      - "make.com"
+
+  - name: "AI-Assisted Back-Office & Virtual Assistant"
+    weight: 0.9
+    keywords:
+      - "virtual assistant"
+      - "back office"
+      - "bookkeeping"
+      - "bookkeeper"
+      - "administrative assistant"
+      - "operations assistant"
+      - "data entry clerk"
+
+# General signal that a role leans on AI tools day-to-day (adds to ai_score
+# regardless of category).
+ai_signal_keywords:
+  - "ai"
+  - "artificial intelligence"
+  - "machine learning"
+  - "chatgpt"
+  - "gpt-4"
+  - "gpt4"
+  - "openai"
+  - "anthropic"
+  - "claude"
+  - "copilot"
+  - "llm"
+  - "generative ai"
+  - "ai tools"
+  - "ai-powered"
+  - "ai-assisted"
+
+# Roles matching these phrases are penalized (and by default excluded) —
+# tuned for introvert-friendly, low live-social-contact work: no cold
+# calling, no live customer-facing chat/phone queues, no sales quota.
+exclusion_keywords:
+  - "cold calling"
+  - "cold call"
+  - "telemarketing"
+  - "sales representative"
+  - "sales executive"
+  - "account executive"
+  - "business development representative"
+  - "customer support representative"
+  - "call center"
+  - "call centre"
+  - "phone support"
+  - "inside sales"
+  - "outbound calls"
+  - "commission-based"
+  - "door to door"
+  - "public speaking required"
+
+# Jobs whose text hits >= this many exclusion phrases are auto-marked
+# 'excluded' during scoring instead of ranked normally.
+exclusion_threshold: 1
+
+# How many successfully landed roles (status = offer) counts as "done".
+hiring_goal: 6
