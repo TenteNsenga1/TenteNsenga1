@@ -20,7 +20,7 @@
            </ul>
     </li>
 </ul>
-<h3>👨‍💻 IT projects: </h3>
+<h3>👨‍🔧 IT projects: </h3>
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>
 
