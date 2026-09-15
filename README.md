@@ -23,7 +23,7 @@
 <h1>👨‍🔧 IT projects: </h1>
      <ul>
      </ul>
-<h1>☁️ IT projects: </h1>
+<h1>☁️ cloud projects: </h1>
      <ul></ul>
     
 <h2>📃 Certification: </h2>
