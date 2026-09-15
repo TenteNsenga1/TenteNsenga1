@@ -3,9 +3,6 @@
 <h1>🕵 cybersecurity projects: </h1>
  <ul>
     <li><b><strong> Labs </li>
-        <ul>
-            <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> Active Directory </a></li>
-        </ul>
          <ul>
             <li><a href="https://github.com/TenteNsenga1/Cloud-Security-with-AWS-IAM"> Cloud Security with AWS IAM </a></li>
          </ul>
@@ -23,6 +20,9 @@
 <h1>👨‍🔧 IT projects: </h1>
  <ul>
     <li><b><strong> Labs </li>
+     <ul>
+            <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> Active Directory </a></li>
+        </ul>
      <ul>
       <li><a href="https://github.com/TenteNsenga1/entreprise-iam-sandbox"> entreprise-iam-sandbox </a></li>
      </ul>
