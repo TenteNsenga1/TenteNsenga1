@@ -12,7 +12,7 @@
         
     
 </ul>
-<h2>👨‍💻 programming projects: </h2>
+<h1>👨‍💻 programming projects: </h1>
 <ul>
     <li><b><strong>Frontend static webpage</li>
         <ul>
@@ -20,10 +20,10 @@
            </ul>
     </li>
 </ul>
-<h3>👨‍🔧 IT projects: </h3>
+<h1>👨‍🔧 IT projects: </h1>
      <ul>
      </ul>
-<h4>☁️ IT projects: </h4>
+<h1>☁️ IT projects: </h1>
      <ul></ul>
     
 <h2>📃 Certification: </h2>
