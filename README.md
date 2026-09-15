@@ -30,7 +30,7 @@
      <li><a href="https://github.com/TenteNsenga1/Hyper-V_secure_file_server"> Hyper-V secure file server</a></li>
      </ul>
      <ul>
-      <li><a href="https://github.com/TenteNsenga1/Hyper-v_dhcp_configuration"> Hyper-V secure file server</a></li>
+      <li><a href="https://github.com/TenteNsenga1/Hyper-v_dhcp_configuration"> Hyper-V dhcp configuration</a></li>
      </ul>
      
   </ul>
