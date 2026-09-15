@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tente!</h1>
 
-<h2>🕵 cybersecurity projects: </h2>
+<h1>🕵 cybersecurity projects: </h1>
  <ul>
     <li><b><strong>Home Labs </li>
         <ul>
