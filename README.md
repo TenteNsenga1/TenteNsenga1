@@ -29,6 +29,9 @@
      <ul>
       <li><a href="https://github.com/TenteNsenga1/Hyper-v_dhcp_configuration"> Hyper-V dhcp configuration</a></li>
      </ul>
+      <ul>
+      <li><a href="https://github.com/TenteNsenga1/DHCP_labs_packet_tracer">/DHCP_labs_packet_tracer</a></li>
+     </ul>
      
   </ul>
 <h1>☁️ Cloud projects: </h1>
