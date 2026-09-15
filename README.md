@@ -9,9 +9,7 @@
          <ul>
             <li><a href="https://github.com/TenteNsenga1/Cloud-Security-with-AWS-IAM"> Cloud Security with AWS IAM </a></li>
          </ul>
-          <ul>
-            <li><a href=""> SOC Lab </a></li>
-         </ul>
+        
     
 </ul>
 <h2>👨‍💻 programming projects: </h2>
@@ -22,6 +20,7 @@
            </ul>
     </li>
 </ul>
+<h3>👨‍💻 IT projects: </h3>
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>
 
