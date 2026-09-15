@@ -2,7 +2,7 @@
 
 <h1>🕵 cybersecurity projects: </h1>
  <ul>
-    <li><b><strong>Home Labs </li>
+    <li><b><strong> Labs </li>
         <ul>
             <li><a href="https://github.com/TenteNsenga1/ActiveDirectoryLab"> Active Directory </a></li>
         </ul>
@@ -22,7 +22,7 @@
 </ul>
 <h1>👨‍🔧 IT projects: </h1>
  <ul>
-    <li><b><strong>Home Labs </li>
+    <li><b><strong> Labs </li>
      <ul>
       <li><a href="https://github.com/TenteNsenga1/entreprise-iam-sandbox"> entreprise-iam-sandbox </a></li>
      </ul>
