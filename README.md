@@ -22,12 +22,10 @@
 </ul>
 <h3>👨‍🔧 IT projects: </h3>
      <ul>
-      
      </ul>
 <h4>☁️ IT projects: </h4>
-     <ul>
-      
-     </ul>
+     <ul></ul>
+    
 <h2>📃 Certification: </h2>
 <h2> 🤳 Connect with me:</h2>
 
